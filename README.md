@@ -1,2 +1,2 @@
 # MatlabExpanders_ThesisCodes
-self-written matlab codes to construct and plot expanders, used during my master thesis project.
+self-written matlab codes used to construct and plot expanders during my master thesis project.
